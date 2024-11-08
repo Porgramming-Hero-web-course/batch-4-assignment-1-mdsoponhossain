@@ -24,6 +24,7 @@ interface Teacher {
   teacher_name: string; 
 } 
   
+  
 type intersected_type = Student & Teacher;   
 
 
